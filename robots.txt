@@ -1,0 +1,120 @@
+# robots.txt file for https://www.coloradoan.com/
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: AmazonBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Googlebot-News
+Disallow: /story/sponsor-story/
+Disallow: /picture-gallery/sponsor-story/
+Disallow: /videos/sponsor-story/
+Disallow: /longform/sponsor-story/
+Disallow: /pages/interactives/sponsor-story/
+Disallow: /interactives/sponsor-story/
+Disallow: /videos/embed/
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: NewsNow
+Disallow: /
+
+User-agent: news-please
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: peer39_crawler
+Disallow: /
+
+User-agent: peer39_crawler/1.0
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: *
+Disallow: /errors
+Disallow: /interactive/
+Disallow: /userauth/
+Disallow: /ugc/
+Disallow: /feeds/
+Disallow: /services/
+Disallow: /facebook/
+Disallow: /version-info/
+Disallow: /longform/draft/
+Disallow: /story/draft/
+Disallow: /topic/*/smart/
+Disallow: /search
+Disallow: /module-showcase/
+Disallow: /newsletter/
+Disallow: /blended-newsletter/
+Disallow: /story/nletter/
+Disallow: /sports/services/photos/
+Disallow: /optimus
+Disallow: /ux-train
+Disallow: /story/advisory/
+Disallow: /.cam-tangent/
+Disallow: /pbd/
+Disallow: /gciaf/
+
+Sitemap: https://www.coloradoan.com/news-sitemap.xml
+Sitemap: https://www.coloradoan.com/web-sitemap-index.xml
+Sitemap: https://www.coloradoan.com/video-sitemap-index.xml
